@@ -1,4 +1,4 @@
-# Float-Fix Approximate Arithmetic LSTM
+# FLEX-LSTM : Float-Fix Approximate Arithmetic LSTM
 
 A mixed-precision LSTM inference accelerator combining **Q6.11 fixed-point** state representation with **FP8-E3M4 logarithmic floating-point** weight multiplication. The architecture achieves significant area and power reductions over standard FP32 implementations while maintaining competitive accuracy on NLP benchmarks.
 
